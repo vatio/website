@@ -46,11 +46,21 @@ header .skills {
 }
 
 .section {
-	padding:25px 25px 0px 25px;
+	padding:80px 25px 0px 25px;
 	margin:0px;
 }
-.sec1 {background:#3cddcc;}
-.sec2 {background:#00abed;}
+.section * {text-transform:none;}
+.sec1 {background:#3cddcc; 	color:#FFF;}
+.sec1 h2 {margin:70px 0px 30px 0px;}
+.sec2 {background:#00abed; 	color:#FFF;}
+.sec2 h2 {margin:70px 0px 30px 0px;}
+.sec3 {background:#FFF;}
 
 /* Styles */
-.gs-top {font-size:2.5em; background:#FF0000; color:#FFF; border-radius:10px; padding:8px 15px;}
+.gs-top {font-size:2.5em; background:#00abed; color:#FFF; border-radius:10px; padding:8px 15px;}
+.rediculous {font-size:40px !important; float:left; padding:10px; margin:10px 5px 50px 5px;}
+p.leave-space {padding:40px 0px;}
+
+
+
+
