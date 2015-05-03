@@ -31,6 +31,12 @@ body {
   background-color: #EEE;
  }
 
+.navbar-brand {
+  padding: 5px 15px;
+  height: 60px;
+}
+
+
 header {
 	background:#FFF;
 	color:#7a7a7a;
@@ -55,11 +61,19 @@ header .skills {
 .sec2 {background:#00abed; 	color:#FFF;}
 .sec2 h2 {margin:70px 0px 30px 0px;}
 .sec3 {background:#FFF;}
-
+.sec4 {padding:20px; margin:0px; background:#607279; color:#FFF;}
+.sec4 p {padding:0px; margin:0px; font-size:20px;}
+.sec5 {padding:20px; margin:0px; background:#333; color:#fff;}
+.sec5 p {font-size:16px;}
+.sec5 a {color:#3cddcc;}
 /* Styles */
+.logo {max-height:50px;}
 .gs-top {font-size:2.5em; background:#00abed; color:#FFF; border-radius:10px; padding:8px 15px;}
+.gs-bottom {background:#FFF; color:#00abed; margin:0px 10px;}
+a.gs-bottom:hover {color:#00abed;}
 .rediculous {font-size:40px !important; float:left; padding:10px; margin:10px 5px 50px 5px;}
 p.leave-space {padding:40px 0px;}
+img.ht7 {height:100px;}
 
 
 
